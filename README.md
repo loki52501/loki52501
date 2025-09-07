@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace" width="300" height="300"/>
 Who is Ada Lovelace?
 Ada Lovelace (1815–1852) was the world’s first computer programmer. She worked with Charles Babbage on the Analytical Engine and wrote the first algorithm intended for a machine, envisioning how computers could go beyond mere calculation.
 
