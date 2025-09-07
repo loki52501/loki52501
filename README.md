@@ -41,7 +41,7 @@ Ada combined vision + technology — she saw the potential of computing long bef
 ---
 
 ## 📌 Featured Projects
-- 🔎 **[AI threat detector model](https://github.com/loki52501/autoencode_detection_research-Project.git)** – Real-time financial analysis with Yahoo Finance, Plotly & TA-Lib  
+- 🔎 **[AI threat detector model](https://github.com/loki52501/autoencode_detection_research-Project.git)** – Detecting and categorizing threat vectors.
 - ☁️ **[Cloud Security IAM Automation](#)** – Automated onboarding/offboarding using AD, Ivanti, and Google Workspace  
 - 📊 **[Reverse Proxy Portofolio](https://lkslokesh.in)** – Express.js + Sequelize backend for revenue insights  
 
