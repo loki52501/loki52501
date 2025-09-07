@@ -1,6 +1,17 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace" width="300" height="300"/>
-Who is Ada Lovelace?
-Ada Lovelace (1815–1852) was the world’s first computer programmer. She worked with Charles Babbage on the Analytical Engine and wrote the first algorithm intended for a machine, envisioning how computers could go beyond mere calculation.
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace" width="200" height="400"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3>Who is Ada Lovelace?</h3>
+      <p>
+        Ada Lovelace (1815–1852) was the world’s first computer programmer.  
+        She worked with Charles Babbage on the Analytical Engine and wrote the first algorithm intended for a machine, envisioning how computers could go beyond mere calculation.
+      </p>
+    </td>
+  </tr>
+</table>
 
 Why she inspires me:
 Ada combined vision + technology — she saw the potential of computing long before it became real. Her foresight motivates me to approach cybersecurity and cloud technologies with the same imagination and drive to create meaningful impact.
