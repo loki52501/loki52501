@@ -33,8 +33,7 @@ Ada combined vision + technology — she saw the potential of computing long bef
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript, Java  
-- **Frameworks:** React.js, Node.js, Spring Boot 
+- **Languages:** Python, C++, Java  
 - **Security & Cloud:** AWS, Azure, GCP, IAM, SIEM, MCP Servers  
 - **Other:** Git, Docker, Kubernetes, PostgreSQL, MongoDB  
 
