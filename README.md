@@ -12,51 +12,46 @@
     </td>
   </tr>
 </table>
-
-Why she inspires me:
-Ada combined vision + technology — she saw the potential of computing long before it became real. Her foresight motivates me to approach cybersecurity and cloud technologies with the same imagination and drive to create meaningful impact.
 # Hi there, I'm Lokesh 👋
 
-🎓 **Master’s in Cybersecurity & Computer Science** (Penn State & USC)  
+🎓 **Master’s in Cybersecurity Operations and Technology** (Penn State )  
 💻 **Software Developer & Cybersecurity Enthusiast**  
 ☁️ Exploring **Cloud Security | AI | Network Security**
 
 ---
 
 ## 🚀 About Me
-- 🔐 Passionate about **cybersecurity, cloud security, and AI-driven security solutions**  
+- 🔐 Passionate about **Network security engineering, cloud Engineering, and AI-driven scalable solutions**  
 - 💼 Experience in **software engineering, IAM automation, and observability tools**  
 - ✅ Certified: **CompTIA Security+**  
-- 📚 Currently preparing for **CCNA and CCSK**  
-- 🌍 Open to opportunities in the **US or Switzerland**
+- 📚 Currently preparing for **CCNA**  
+- 🌍 Open to opportunities in the **US**
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++, Java  
-- **Security & Cloud:** AWS, Azure, GCP, IAM, SIEM, MCP Servers  
-- **Other:** Git, Docker, Kubernetes, PostgreSQL, MongoDB  
+- **Security & Cloud:** AWS, Azure, GCP, IAM, MCP Servers  
+- **Other:** Git, Docker, Kubernetes, PostgreSQL, MongoDB
 
 ---
 
 ## 📌 Featured Projects
 - 🔎 **[AI threat detector model](https://github.com/loki52501/autoencode_detection_research-Project.git)** – Detecting and categorizing threat vectors.
-- ☁️ **[Cloud Security IAM Automation](#)** – Automated onboarding/offboarding using AD, Ivanti, and Google Workspace  
-- 📊 **[Reverse Proxy Portofolio](https://lkslokesh.in)** – Express.js + Sequelize backend for revenue insights  
+- 📊 **[static site generator for portfolios](https://lkslokesh.com)** – C++ and pure HTML, JS & CSS 
 
 ---
 
 ## 🌱 Currently
-- Enhancing my **cybersecurity certifications & projects**  
-- Diving deeper into **cloud security engineering**  
+- Enhancing my **projects**  
+- Diving deeper into **AI engineering**  
 - Building **personal projects** that combine **AI + security**
 
 ---
 
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio](https://lkslokesh.in)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokesh-l-k-s-6935b0197)  
+- 🌐 [Portfolio](https://lkslokesh.com)  
 - 🐙 [GitHub](https://github.com/loki52501)  
 
 ---
