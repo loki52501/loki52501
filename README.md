@@ -34,7 +34,7 @@
 
 ## About Me
 
-Software engineer with an MS in Cybersecurity from **Penn State** and a BE in IT from **Anna University**. I work at the intersection of security, machine learning, and infrastructure — building systems that detect threats, scale reliably, and solve real problems. Currently hunting for roles where I can do all three.
+Software engineer with an MS in Cybersecurity from **Penn State** and a MS in IT from **Anna University**. I work at the intersection of security, machine learning, and infrastructure — building systems that detect threats, scale reliably, and solve real problems. Currently hunting for roles where I can do all three.
 
 - 🔬 Researching **CNN-based DDoS detection** using traffic-to-image conversion (PyTorch)
 - 🏗️ Building a **full-stack web platform** for Lokesh Agro Foods
