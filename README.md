@@ -237,12 +237,12 @@ Software engineer with an MS in Cybersecurity from **Penn State** and a BE in IT
   ║  4. Run the workflow manually once, then uncomment below:    ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loki52501/loki52501/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/loki52501/loki52501/output/github-snake.svg" alt="Snake animation" />
   </picture>
-</div> -->
+</div>
 
 <div align="center">
   <sub>Built with focus and too much coffee ☕</sub>
