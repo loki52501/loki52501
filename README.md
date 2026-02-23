@@ -1,4 +1,4 @@
-# Lokesh Aggarwal
+# Lokesh L K S
 
 Software engineer focused on cybersecurity and applied ML. MS in Cybersecurity from Penn State (2026), BE in IT from Anna University. I build systems that sit at the intersection of security, infrastructure, and machine learning.
 
