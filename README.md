@@ -1,53 +1,58 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg" alt="Ada Lovelace" width="200" height="400"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3>Who is Ada Lovelace?</h3>
-      <p>
-        Ada Lovelace (1815–1852) was the world’s first computer programmer.  
-        She worked with Charles Babbage on the Analytical Engine and wrote the first algorithm intended for a machine, envisioning how computers could go beyond mere calculation.
-      </p>
-    </td>
-  </tr>
-</table>
-# Hi there, I'm Lokesh 👋
+# Lokesh Aggarwal
 
-🎓 **Master’s in Cybersecurity Operations and Technology** (Penn State )  
-💻 **Software Developer & Cybersecurity Enthusiast**  
-☁️ Exploring **Cloud Security | AI | Network Security**
+Software engineer focused on cybersecurity and applied ML. MS in Cybersecurity from Penn State (2026), BE in IT from Anna University. I build systems that sit at the intersection of security, infrastructure, and machine learning.
+
+## Currently Working On
+
+- **DDoS Attack Detection** — Temporal CNN pipeline converting network traffic to image representations for classification (PyTorch, 94% accuracy on BCCC-Cloud-DDoS-2024)
+- **Agro Foods Web Platform** — Full-stack application for image-based produce classification and automated billing
+
+## Experience
+
+**Senior ML Engineer** · Lokesh Agro Foods — Image classification systems, billing automation  
+**Platform Engineer Intern** · Tvastr — AWS compliance engine across 1000+ accounts, Elasticsearch optimization  
+**AI/ML Research Assistant** — Metaheuristic feature selection + LSTM for network packet detection  
+**Teaching Assistant** · Penn State — Data Structures & Algorithms (C++, Python, Java)
+
+## Tech Stack
+
+**Languages:** Python · C++ · Java · JavaScript  
+**ML/Data:** PyTorch · Scikit-learn · Elasticsearch  
+**Backend:** FastAPI · Spring Boot  
+**Frontend:** React · React Native  
+**Infrastructure:** AWS · Kubernetes · Docker · Linux (Arch)  
+**Networking:** QUIC · TCP/IP · Wireshark
+
+## Select Projects
+
+| Project | Description |
+|---------|-------------|
+| **DDoS Detection System** | CNN-based network intrusion detection with traffic-to-image conversion |
+| **OpenClaw** | WhatsApp bot deployed on Kubernetes |
+| **Video Streaming Platform** | MinIO object storage with HEVC transcoding |
+| **E-Library** | React + React Native frontend, FastAPI backend |
+| **Blood Donor App** | Spring Boot microservice architecture |
+| **Static Site Generator** | Built from scratch in pure C++ |
+| **QUIC Router Simulation** | Protocol-level network simulation |
+
+## Certifications
+
+Cisco CCNA · CompTIA Security+
+
+---
+
+<p align="center">
+  <a href="https://github.com/loki52501">
+    <img src="https://github-readme-stats.vercel.app/api?username=loki52501&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔐 Passionate about **Network security engineering, cloud Engineering, and AI-driven scalable solutions**  
-- 💼 Experience in **software engineering, IAM automation, and observability tools**  
-- ✅ Certified: **CompTIA Security+**  
-- 📚 Currently preparing for **CCNA**  
-- 🌍 Open to opportunities in the **US**
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, Java  
-- **Security & Cloud:** AWS, Azure, GCP, IAM, MCP Servers  
-- **Other:** Git, Docker, Kubernetes, PostgreSQL, MongoDB
-
----
-
-## 📌 Featured Projects
-- 🔎 **[AI threat detector model](https://github.com/loki52501/autoencode_detection_research-Project.git)** – Detecting and categorizing threat vectors.
-- 📊 **[static site generator for portfolios](https://lkslokesh.com)** – C++ and pure HTML, JS & CSS 
-
----
-
-## 🌱 Currently
-- Enhancing my **projects**  
-- Diving deeper into **AI engineering**  
-- Building **personal projects** that combine **AI + security**
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
+  <a href="https://YOUR-WEBSITE.com">Website</a>
+</p>
 
 
 ## 📫 Connect With Me
