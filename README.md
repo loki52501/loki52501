@@ -127,31 +127,25 @@ Software engineer with an MS in Cybersecurity from **Penn State** and a BE in IT
 
 <div align="center">
 
-  <!-- Stats Card + Streak side by side -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=loki52501&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=loki52501&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=loki52501&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-    <img src="https://streak-stats.demolab.com?user=loki52501&hide_border=true" width="49%" alt="GitHub Streak"/>
-  </picture>
+  <!-- Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=loki52501&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%" alt="GitHub Streak"/>
+  </a>
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=loki52501&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki52501&layout=compact&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
-  </picture>
+  <!-- Profile Summary Cards - self-hosted, reliable -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loki52501&theme=tokyonight" width="70%" alt="Profile Details"/>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=loki52501&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=loki52501&bg_color=FFFFFF&color=6C63FF&line=6C63FF&point=000000&area=true&area_color=6C63FF&hide_border=true" width="98%" alt="Contribution Graph"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loki52501&theme=tokyonight" width="34%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loki52501&theme=tokyonight" width="34%" alt="Most Commit Language"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loki52501&theme=tokyonight" width="34%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loki52501&theme=tokyonight&utcOffset=-5" width="34%" alt="Productive Time"/>
 
 </div>
 
