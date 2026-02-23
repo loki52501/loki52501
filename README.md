@@ -52,7 +52,7 @@ Software engineer with an MS in Cybersecurity from **Penn State** and a MS in IT
 
 | Role | Organization | Focus |
 |:-----|:------------|:------|
-| **Senior ML Engineer** | Lokesh Agro Foods | Image classification for produce grading, automated billing systems |
+| **ML Software Engineer** | Lokesh Agro Foods | Image classification for produce grading, automated billing systems |
 | **Platform Engineer Intern** | Tvastr | AWS compliance engine across 1,000+ accounts, Elasticsearch query optimization |
 | **AI/ML Research Assistant** | Penn State | Metaheuristic feature selection + LSTM for network packet detection |
 | **Teaching Assistant** | Penn State | Data Structures & Algorithms — C++, Python, Java |
