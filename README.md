@@ -3,7 +3,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Lokesh+Aggarwal+%E2%80%94+Software+Engineer;Cybersecurity+%7C+Applied+ML+%7C+Cloud+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Lokesh+L+K+S+%E2%80%94+Software+Engineer;Cybersecurity+%7C+Applied+ML+%7C+Cloud+Infrastructure" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -34,9 +34,10 @@
 
 ## About Me
 
-Software engineer with an MS in Cybersecurity from **Penn State** and a MS in IT from **Anna University**. I work at the intersection of security, machine learning, and infrastructure — building systems that detect threats, scale reliably, and solve real problems. Currently hunting for roles where I can do all three.
+Software engineer with an MS in Cybersecurity from **Penn State** and a BE in IT from **Anna University**. I work at the intersection of security, machine learning, and infrastructure — building systems that detect threats, scale reliably, and solve real problems. Currently hunting for roles where I can do all three.
 
 - 🔬 Researching **CNN-based DDoS detection** using traffic-to-image conversion (PyTorch)
+- 🏗️ Building a **full-stack web platform** for Lokesh Agro Foods
 - 📜 Certified **Cisco CCNA** and **CompTIA Security+**
 - 🐧 Daily driving **Arch Linux** — btw
 
@@ -51,7 +52,7 @@ Software engineer with an MS in Cybersecurity from **Penn State** and a MS in IT
 
 | Role | Organization | Focus |
 |:-----|:------------|:------|
-| **ML Software Engineer** | Lokesh Agro Foods | Image classification for produce grading, automated billing systems |
+| **Senior ML Engineer** | Lokesh Agro Foods | Image classification for produce grading, automated billing systems |
 | **Platform Engineer Intern** | Tvastr | AWS compliance engine across 1,000+ accounts, Elasticsearch query optimization |
 | **AI/ML Research Assistant** | Penn State | Metaheuristic feature selection + LSTM for network packet detection |
 | **Teaching Assistant** | Penn State | Data Structures & Algorithms — C++, Python, Java |
