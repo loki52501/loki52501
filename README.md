@@ -158,7 +158,7 @@
 
   ### Let's Connect
   
-  I'm actively looking for roles in **AI infrastructure**, **AI reliability**, and **applied ML**.  
+  I'm actively looking for roles in **AI infrastructure**, **AI reliability**, and **applied ML** or **AI agentic software development**.  
   If you're building something interesting — let's talk.
 
   <br/>
